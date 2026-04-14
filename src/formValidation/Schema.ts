@@ -10,6 +10,7 @@ const Schema = Yup.object().shape({
     .max(200, "Too Long")
     .required("Required"),
   priority: Yup.string().required("Priority is required"),
+  dueDate: Yup.string().optional(),
 });
 
 export default Schema;

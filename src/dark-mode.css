@@ -1,0 +1,78 @@
+.dark-mode {
+  background-color: #1a1a2e;
+  color: #e0e0e0;
+}
+
+.dark-mode .card {
+  color: #e0e0e0;
+}
+
+.dark-mode .navbar {
+  background-color: #16213e !important;
+  border-bottom: 1px solid #0f3460;
+}
+
+.dark-mode .navbar-brand,
+.dark-mode .nav-link,
+.dark-mode .dropdown-toggle {
+  color: #e0e0e0 !important;
+}
+
+.dark-mode .dropdown-menu {
+  background-color: #16213e;
+  border-color: #0f3460;
+}
+
+.dark-mode .dropdown-item {
+  color: #e0e0e0;
+}
+
+.dark-mode .dropdown-item:hover {
+  background-color: #0f3460;
+  color: #fff;
+}
+
+.dark-mode .card {
+  background-color: #16213e !important;
+  border-color: #0f3460;
+  color: #e0e0e0;
+}
+
+.dark-mode .card-footer {
+  background-color: #0f3460;
+  border-color: #0f3460;
+}
+
+.dark-mode .text-muted {
+  color: #a0a0b0 !important;
+}
+
+.dark-mode .progress {
+  background-color: #0f3460;
+}
+
+.dark-mode .modal-content {
+  background-color: #16213e;
+  color: #e0e0e0;
+}
+
+.dark-mode .modal-header {
+  border-color: #0f3460;
+}
+
+.dark-mode .modal-footer {
+  border-color: #0f3460;
+}
+
+.dark-mode .form-control {
+  background-color: #0f3460;
+  border-color: #1a4a7a;
+  color: #e0e0e0;
+}
+
+.dark-mode .form-control:focus {
+  background-color: #0f3460;
+  color: #e0e0e0;
+  border-color: #4a90d9;
+  box-shadow: 0 0 0 0.2rem rgba(74, 144, 217, 0.25);
+}

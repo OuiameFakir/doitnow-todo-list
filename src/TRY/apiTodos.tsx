@@ -35,7 +35,7 @@ function Todos() {
           <div className="m-3">
             <Link to="/" className="text-decoration-none">
               {" "}
-              {`<-  Homme`}{" "}
+              {`<-  Home`}{" "}
             </Link>
           </div>
           <br />
